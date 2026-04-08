@@ -1,9 +1,9 @@
-# 📊 Superstore Sales Analysis — Project README
+# 📊 Superstore Sales Analysis — Project
 
 ## Dataset
 
 **File:** `Sample_-_Superstore.csv`  
-**Source:** Tableau Sample Superstore (widely used public analytics training dataset)  
+**Source:** https://www.kaggle.com/datasets/vivek468/superstore-dataset-final  
 **Size:** 9,994 rows × 21 columns  
 **Coverage:** US retail orders across 4 regions, 3 product categories, multiple years
 
@@ -88,5 +88,3 @@ pip install pandas numpy matplotlib seaborn
 | `seaborn` | Correlation heatmap and theme styling |
 
 ---
-
-*Project completed as part of a Python & Data Analysis assignment.*
