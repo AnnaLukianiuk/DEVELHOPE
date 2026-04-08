@@ -58,7 +58,7 @@ pip install pandas numpy matplotlib seaborn
 | 1. Data Loading | Load CSV, display head, dtypes, missing value summary |
 | 2. Data Cleaning | Parse dates, fix Postal Code type, derive Profit Margin |
 | 3. KPI Calculation | Revenue, profit, margins, regional stats, monthly trend |
-| 4. Data Visualization | 6 plots covering distributions, comparisons, correlations, trends |
+| 4. Data Visualization | 5 plots covering distributions, comparisons, correlations, trends |
 | 5. Insights | 10 key findings and actionable recommendations |
 
 ---
@@ -93,7 +93,7 @@ pip install pandas numpy matplotlib seaborn
 |---|---|
 | `pandas` | Data loading, cleaning, grouping, aggregation |
 | `numpy` | Numerical operations, correlation, regression line |
-| `matplotlib` | Base plotting (histograms, bar charts, line charts, scatter) |
+| `matplotlib` | Base plotting (histograms, bar charts, line charts) |
 | `seaborn` | Correlation heatmap and theme styling |
 
 ---
